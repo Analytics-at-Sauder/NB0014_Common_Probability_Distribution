@@ -1,1 +1,1 @@
-# NB0014_Common_Probability_Distribution
+# NB0014_Common_Probability_Distributions
